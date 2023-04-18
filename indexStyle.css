@@ -13,15 +13,18 @@ h1{
     text-shadow: 5px 0 #232931;
 }
 h2{
-    margin-bottom: 3rem;
+    padding: 1rem;
+    margin-bottom: 3;
     font-family: 'Indie Flower', cursive;
     font-style: italic;
+
+    
 }
 .player{
     display: flex;
     justify-content: center;
     gap: 40px;
-    margin:5rem 8rem 4rem;
+    margin:5rem 8rem 6rem;
 
 }
 p{
@@ -31,13 +34,14 @@ img{
     width: 80%;
     max-width: 200px;
 }
+
 .btn{
     padding: 1em 2em;
     border-radius: 50px;
     background-color: rgb(148, 27, 27);
     cursor: pointer;
-    font-size: 30px;
-    margin-bottom: 3rem;
+    font-size: 2vmax;
+    margin-bottom: 10rem;
     shape-rendering: 5px 0 #232931;
 
     color: #ffffff;
