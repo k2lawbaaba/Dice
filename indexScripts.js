@@ -32,11 +32,4 @@ else{
 
 }
 
-
-
-
-
-
-
-document.querySelector("button")
 }
